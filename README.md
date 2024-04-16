@@ -1,3 +1,11 @@
 # Aiml-Batch-14
-
 [Lab-01](https://github.com/katkuridhanush/Aiml-Batch-14/blob/main/Lab01.ipynb)
+[Lab-02](https://github.com/katkuridhanush/Aiml-Batch-14/blob/main/Lab02.ipynb)
+[Lab-03](https://github.com/katkuridhanush/Aiml-Batch-14/blob/main/Lab3.ipynb)
+[Lab-04](https://github.com/katkuridhanush/Aiml-Batch-14/blob/main/Lab4.ipynb)
+[Lab-05](https://github.com/katkuridhanush/Aiml-Batch-14/blob/main/Lab5.ipynb)
+[Lab-06](https://github.com/katkuridhanush/Aiml-Batch-14/blob/main/Lab6.ipynb)
+[Lab-07](https://github.com/katkuridhanush/Aiml-Batch-14/blob/main/Lab7.ipynb)
+[Lab-08](https://github.com/katkuridhanush/Aiml-Batch-14/blob/main/Lab8.ipynb)
+[Lab-09](https://github.com/katkuridhanush/Aiml-Batch-14/blob/main/Lab9.ipynb)
+[Lab-10](https://github.com/katkuridhanush/Aiml-Batch-14/blob/main/Lab10.ipynb)
